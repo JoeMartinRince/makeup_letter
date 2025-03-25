@@ -1,30 +1,30 @@
 body {
   max-width: 800px;
   margin: 0 auto;
-  font-family: 'Comic Sans MS', cursive, sans-serif;
-  line-height: 1.6;
-  color: #6d4c41;
+  font-family: 'Times New Roman', serif;
+  line-height: 1.8;
+  color: #2c3e50;
   padding: 20px;
-  background-color: #ffe0f0;
+  background-color: #f4f4f4;
 }
 
 .sender-column {
   text-align: right;
   font-style: italic;
-  color: #b56576;
+  color: #555;
 }
 
 h1 {
   font-size: 1.8em;
-  color: #ff69b4;
+  color: #1a5276;
   margin-bottom: 0.8em;
-  border-bottom: 2px solid #ffb6c1;
+  border-bottom: 2px solid #d5d8dc;
   padding-bottom: 0.3em;
 }
 
 h2 {
   font-size: 1.5em;
-  color: #ff80ab;
+  color: #154360;
   margin-top: 1.2em;
   margin-bottom: 0.6em;
 }
@@ -35,11 +35,11 @@ p, ul, ol, dl, address {
 }
 
 p, li, dd, dt, address {
-  line-height: 1.6;
+  line-height: 1.8;
 }
 
 a {
-  color: #ff4081;
+  color: #c0392b;
   text-decoration: none;
 }
 
@@ -48,10 +48,10 @@ a:hover {
 }
 
 blockquote {
-  border-left: 4px solid #f48fb1;
+  border-left: 4px solid #abb2b9;
   padding-left: 1em;
   font-style: italic;
-  color: #b56576;
+  color: #444;
 }
 
 /* Add responsive styling */
@@ -68,3 +68,4 @@ blockquote {
     font-size: 1.3em;
   }
 }
+
